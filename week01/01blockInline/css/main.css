@@ -1,0 +1,36 @@
+body {
+	margin: 0;
+}
+div {
+	background-color: purple;
+	height: 100px;
+	margin-bottom: 10px;
+	display: inline-block;
+	width: 50%;
+}
+
+.blue {
+	background-color: blue;
+}
+
+h1 {
+	display: inline;
+}
+button {
+	display: block;
+}
+
+ul {
+	background-color: tomato;
+	padding: 10px;
+	margin: 0;
+}
+li {
+	display: inline-block;
+	color: #FFF;
+	margin: 10px;
+}
+
+ul li a {
+	text-decoration: none;
+}
